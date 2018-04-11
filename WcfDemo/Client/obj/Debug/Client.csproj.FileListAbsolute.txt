@@ -1,0 +1,5 @@
+F:\My Src\WcfDemo\Client\bin\Client.dll
+F:\My Src\WcfDemo\Client\bin\Client.pdb
+F:\My Src\WcfDemo\Client\obj\Debug\ResolveAssemblyReference.cache
+F:\My Src\WcfDemo\Client\obj\Debug\Client.dll
+F:\My Src\WcfDemo\Client\obj\Debug\Client.pdb
